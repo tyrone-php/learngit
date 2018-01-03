@@ -1,3 +1,0 @@
-test
-test of file.
-small test of file.
